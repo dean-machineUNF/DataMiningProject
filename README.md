@@ -1,1 +1,1 @@
-# DataMiningProject
+Group project in which we used R to collect and clean twitter data. Then used Balanced Winnow classification algorithm in Weka to classify tweets as sarcastic or not sarcastic. Correctly predicted sarcasm at a 78% rate.
